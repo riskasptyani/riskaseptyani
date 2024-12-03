@@ -1,0 +1,5 @@
+biodata
+
+nama : Riska Septyani
+kelas : 4IA20
+npm : 51421326
